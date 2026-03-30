@@ -15,3 +15,6 @@ Reset Button
 1. Download the `/gerbers` folder
 2. Zip it up
 3. Upload to PCBWay (PCB Instant Quote -> easy order -> upload `/gerbers` file -> tweak shipping as needed)
+
+# Preview
+![PCB Layout](preview.png) 
